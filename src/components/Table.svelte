@@ -41,6 +41,22 @@
             ipv6: "2a0e:8f00:fddd::6"
         },
         {
+            asn: 213027,
+            callsign: "VE5LPL",
+            name: "Keaton Alexander Guger Lair",
+            port: 10,
+            ipv4: "44.190.42.7",
+            ipv6: "2a0e:8f00:fddd::7"
+        },
+        {
+            asn: 213027,
+            callsign: "K6MPP & KC6GNJ",
+            name: "Two P",
+            port: 10,
+            ipv4: "44.190.42.8",
+            ipv6: "2a0e:8f00:fddd::8"
+        },
+        {
             asn: 112,
             callsign: "K7ARX",
             name: "AS112",
